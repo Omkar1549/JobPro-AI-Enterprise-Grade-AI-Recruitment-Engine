@@ -1,4 +1,4 @@
-🚀 JobPro AI: Enterprise-Grade AI Recruitment Engine
+🚀 JobPro AI: Enterprise_Grade AI Recruitment Engine
 
 📌 Strategic Overview
 
